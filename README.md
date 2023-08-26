@@ -50,3 +50,15 @@ Note: This work was done by me as research intern at IIITD.
 
 ## Related Data
 The files related to the project used by me are present here: https://drive.google.com/drive/folders/1VzxEFNfLCDZr6FxFo6Obwzp3iY1F6hol?usp=sharing
+## Other Useful links used for development and research
+- https://viso.ai/deep-learning/mask-r-cnn/#:~:text=Mask%20R%2DCNN%2C%20or%20Mask,image%20segmentation%20and%20instance%20segmentation.&text=The%20computer%20vision%20task%20Image,also%20known%20as%20image%20objects).
+- https://github.com/NVlabs/SCOPS
+- http://densepose.org/#:~:text=Dense%20human%20pose%20estimation%20aims,surface%20of%20the%20human%20body.&text=We%20propose%20DensePose%2DRCNN%2C%20a,at%20multiple%20frames%20per%20second.
+- https://github.com/facebookresearch/detectron2/tree/main/projects/DensePose
+- https://www.kaggle.com/code/cdeotte/pseudo-labeling-qda-0-969/notebook
+- https://openai.com/research/clip#fn3
+- https://arxiv.org/abs/2103.00020
+- https://github.com/openai/CLIP/blob/main/clip/model.py
+- https://huggingface.co/docs/transformers/model_doc/convbert
+- https://deeplobe.ai/image-segmentation/
+- https://paperswithcode.com/methods/category/image-models
